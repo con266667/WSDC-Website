@@ -1,5 +1,5 @@
 ---
-title: index
+title: WSDC
 layout: home
 ---
 
