@@ -4,7 +4,7 @@ date: 2020-06-19 23:01:00 Z
 categories:
 - jekyll
 - update
-description: From the Certifind Team
+description: From the WSDC Team
 layout: post
 ---
 
